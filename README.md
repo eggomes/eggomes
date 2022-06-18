@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Elizabete Gomes</h1>
-<h3 align="center"> Sou apaixonada por Tecnologia <br> Graduada em Gestçao de TI <br> Graduando em Sistemas para Inernet</h3>
+<h3 align="center"> Sou apaixonada por Tecnologia <br> Graduada em Gestão de TI <br> Graduando em Sistemas para Inernet</h3>
 
 - 🌱 Atualmente estou apredendo **Java e JavaScript**
 
