@@ -5,6 +5,8 @@
 
 - 👨‍💻 Todos os meus projetos você encontra no site [www.elizabetegomes.com.br](www.elizabetegomes.com.br)
 
+- 🤝 Procurando Estágio na Área de Desenvolvimento
+
 - 📫 Você mim acha através do e-mail **elizabetegomes.ti@hotmail.com**
 
 - 📄 Trabalhei com manutenção de equipamentos de informática e redes de internet [https://www.linkedin.com/in/elizabete-gomes-50517534/](https://www.linkedin.com/in/elizabete-gomes-50517534/)
